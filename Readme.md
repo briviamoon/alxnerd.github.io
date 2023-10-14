@@ -5,9 +5,8 @@
         <!-- Box icons -->
         <link rel="stylesheet" href="./resources/box_icons/css/animations.css">
         <link rel="stylesheet" href="./resources/box_icons/css/boxicons.css">
-        <link rel="stylesheet" href="resources/box_icons/css/boxicons.min.css">
-        <link rel="stylesheet" href="resources/box_icons/css/transformations.css">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="./resources/box_icons/css/boxicons.min.css">
+        <link rel="stylesheet" href="./resources/box_icons/css/transformations.css">
         ALX Nerd
 </head>
 
@@ -22,4 +21,5 @@
                         </a>
                 </nav>
        </header>
+<script src="./js/index.js"><script>
 </body>
