@@ -21,9 +21,9 @@ where we can all come together and share ideas and learn to find solutions for o
 - Edit the files and add a feature. Make sure to test that it is working.
 - cimmit the changes in the branch to remote.
 - submit pull request to the main branch.
-        1. pull requests should headline what the feature added is.
-        2. pull requests should have in point form, detailed description of the code behind the feature.
-        3. After subbmiting a pull request, please wait for the main repo to review and merge.
+\t\t\t1. pull requests should headline what the feature added is.
+\t\t\t2. pull requests should have in point form, detailed description of the code behind the feature.
+\t\t\t3. After subbmiting a pull request, please wait for the main repo to review and merge.
 
   
   ## I Thank You For Your Support Contribution To This Wonderfull Project
