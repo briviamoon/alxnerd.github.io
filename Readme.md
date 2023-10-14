@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="resources/box_icons/css/boxicons.min.css">
         <link rel="stylesheet" href="resources/box_icons/css/transformations.css">
         <link rel="stylesheet" href="">
-        <title>ALX Nerd</title>
+        ALX Nerd
 </head>
 
 <body>
