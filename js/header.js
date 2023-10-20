@@ -42,12 +42,8 @@ const menuToggleIcon = selectElement('#menu-toggle-icon');
 function toggleMenu() {
 	const mobileMenu = selectElement('#menu');
 
-	mobileMenu.classList.add('activated');
-	menuToggleIcon.classList.add('activated');
-	// Window.addEventListener('click', () => {
-	// 	mobileMenu.classList.remove('activated');
-	// 	menuToggleIcon. classList.remove('activated');
-	// });
+	mobileMenu.classList.toggle('activated');
+	menuToggleIcon.classList.toggle('activated');
 }
 
 menuToggleIcon.addEventListener('click', toggleMenu);
