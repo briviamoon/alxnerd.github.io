@@ -96,3 +96,5 @@ window.addEventListener('keyup', event => {
 		searchFormCont.classList.remove('activated');
 	}
 });
+
+export {selectElement};
