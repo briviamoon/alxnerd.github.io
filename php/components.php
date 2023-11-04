@@ -99,32 +99,28 @@ $pageFeaturedContent = '<section class="featured-articles section-header-offset"
 				<h3 class="title article-title">C Is Not That Hard</h3>
 			</div>
 		</a>
-		<a class="article featured-article featured-article-1" href="./post.html">
-			<img src="./img/alx-c.png" alt="Learning C" class="article-image">
-			<span class="article-category">Technology</span>
-			<div class="article-data-container">
-				<div class="article-data">
-					<span>Coming Soon</span>
-					<span class="article-data-spacer"></span>
-					<span>Alx.Nerd Is Under Construction.</span>
-				</div>
-				<h3 class="title article-title">C Is Not That Hard</h3>
-			</div>
-		</a>
-		<a class="article featured-article featured-article-1" href="./post.html">
-			<img src="./img/alx-c.png" alt="Learning C" class="article-image">
-			<span class="article-category">Technology</span>
-			<div class="article-data-container">
-				<div class="article-data">
-					<span>Coming Soon</span>
-					<span class="article-data-spacer"></span>
-					<span>Alx.Nerd Is Under Construction.</span>
-				</div>
-				<h3 class="title article-title">C Is Not That Hard</h3>
-			</div>
-		</a>
 	</div>
 </div>
 </section>';
-$headerJs = '<script src="../js/header.js" defer></script>';
 
+$pageArticleSection = '	<section class="post-section section" id="postsection">
+<div class="article-space">
+	<div class="article-title place-items-center">
+		<h1 class="title">ARTICLE</h1>
+		<p>Lorem ipsum dolor sit amet consectetur?</p>
+	</div>
+
+	<div class="image-box">
+		<img src="../img/alx-c.png" alt="" class="article-img">
+	</div>
+
+	<div class="article-box container">
+		<!-- Article goes here -->
+		<div class="article-content">
+			<p>Article Content Goes Here</p>
+		</div>
+	</div>
+</div>
+</section>';
+
+$headerJs = '<script src="../js/header.js" defer></script>';
